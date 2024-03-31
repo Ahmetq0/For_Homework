@@ -1,0 +1,7 @@
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\04.C#HomeWorks\For Uygualamaları\Ödev2\bin\Debug\Ödev2.exe.config
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\04.C#HomeWorks\For Uygualamaları\Ödev2\bin\Debug\Ödev2.exe
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\04.C#HomeWorks\For Uygualamaları\Ödev2\bin\Debug\Ödev2.pdb
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\04.C#HomeWorks\For Uygualamaları\Ödev2\obj\Debug\Ödev2.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\04.C#HomeWorks\For Uygualamaları\Ödev2\obj\Debug\Ödev2.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\04.C#HomeWorks\For Uygualamaları\Ödev2\obj\Debug\Ödev2.exe
+C:\Users\ahmet\Desktop\YEB-Ahmethan İhtiyar\2023-2024\01. Ders\01. Programlama Temelleri (Mehmet Kemal Köse Hoca)\C#\04.C#HomeWorks\For Uygualamaları\Ödev2\obj\Debug\Ödev2.pdb
